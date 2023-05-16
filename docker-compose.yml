@@ -1,5 +1,5 @@
 services:
-  okvtwo: xray-for-okteto
+  okvtwo: okvtwo
     build: .
     shm_size: 2.6gb
     ports:
